@@ -2,7 +2,7 @@
   "name": "vuexy-react-admin-dashboard",
   "version": "8.0.0",
   "private": false,
-  "homepage": "https://aleksandrKas777.github.io/react-gh-pages",
+  "homepage": "https://aleksandrKas777.github.io/build",
   "dependencies": {
     "@casl/ability": "^5.2.2",
     "@casl/react": "^2.1.1",
